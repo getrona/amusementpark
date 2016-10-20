@@ -1,0 +1,11 @@
+#okay, #tooshort, #tootall{
+  display: none;
+}
+
+#okay li {
+  background-color: yellow;
+}
+
+#yes {
+  background-color: yellow;
+}
